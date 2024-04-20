@@ -1,2 +1,2 @@
-# .github
-description
+# everseed
+ubiquitous alternative for meeting
